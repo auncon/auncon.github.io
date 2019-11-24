@@ -1,2 +1,2 @@
 Hello!
-Welcome to mmy portfolio :)
+Welcome to my portfolio :)
